@@ -4,6 +4,7 @@
 
 ## Usages
 
-C:ドライブに`C:\chromedriver\`を作成して, https://sites.google.com/a/chromium.org/chromedriver/downloads からダウロードしたchromedriver.exeを作ったフォルダに保存する.
+ 
+https://chromedriver.chromium.org/downloads からChromeのバージョンに合うChromeDriverをダウンロードする.
 
-    
+C:ドライブに`C:\chromedriver\`を作成して, ダウンロードした`chromedriver.exe`を保存する.
